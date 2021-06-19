@@ -1,0 +1,44 @@
+.mb-3{
+            
+    padding: 6px 100px;
+ }
+ .entra{
+     background-color:lightskyblue;
+     margin: 0 160px;
+ }
+ h2{
+     font-size: 18px;
+     padding-left: 180px;
+     color:darkgrey; 
+ }
+ .login{
+     
+  border   : 2px solid #000;
+ }
+ h3{
+     font-size: 10px;
+     padding-left: 140px;
+ }
+ p{
+     padding-left: 100px;
+ }
+ 
+ body{
+     padding:15px;
+     width: 400px;
+     margin: auto;
+     background-color: gainsboro;
+     display: flex;
+     align-items: center;
+     width: 60%;
+     
+ }
+ .post{
+     margin-bottom: 20px;
+ }
+ .login{
+     background-color: white;
+ }
+ .img{
+    margin-right: 100px;
+ }
